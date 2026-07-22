@@ -1,4 +1,4 @@
-![Cover Image](Cyclistic Capstone Cover Image.png)
+![Cover Image](Cyclistic_Capstone_Cover_Image.png)
 # 🔍 Google Data Analytics Capstone - Cyclistic
 
 A data analytics case study to analyze 12 months of Cyclistic bike-share trip data to identify behavioral differences between casual riders and annual members for a targeted marketing strategy.
